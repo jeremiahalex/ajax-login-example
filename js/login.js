@@ -1,4 +1,5 @@
 /* global $ serverURL setUserEmail setUserAuthToken */
+var serverURL = 'http://localhost:3000/'
 
 $(function () {
   // listen for the form login
